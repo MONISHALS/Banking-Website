@@ -1,4 +1,4 @@
-- 👋 Hello All, I’m MONISHA LS
+- 👋 Hello all, I’m MONISHA LS
 - I've developed a simple banking website
 - which will be able to transact money and 
 - view accounts' profiles and balances
